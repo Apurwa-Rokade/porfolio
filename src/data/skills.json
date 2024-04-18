@@ -1,0 +1,50 @@
+[
+  {
+    "title": "HTML5",
+    "imageSrc": "/assets/skills/html.png"
+  },
+
+  {
+    "title": "CSS3",
+    "imageSrc": "/assets/skills/css.png"
+  },
+  {
+    "title": "JavaScript",
+    "imageSrc": "https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
+  },
+
+  {
+    "title": "TypeScript",
+    "imageSrc": "https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
+  },
+  {
+    "title": "React",
+    "imageSrc": "/assets/skills/react.png"
+  },
+
+  {
+    "title": "Git",
+    "imageSrc": "https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
+  },
+
+  {
+    "title": "JAVA",
+    "imageSrc": "https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
+  },
+ 
+ 
+  {
+    "title": "MangoDB",
+    "imageSrc": "https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
+  },
+ 
+  {
+    "title": "TailwindCSS",
+    "imageSrc": "https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"
+  },
+ 
+  {
+    "title": "NodeJS",
+    "imageSrc": "https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg "
+  }
+]

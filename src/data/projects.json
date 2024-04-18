@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Social Blog",
+    "imageSrc": "projects/project.png",
+    "description": "This is a project made posting blogs.",
+    "skills": ["React", "Redux", "Appwrite"],
+    "demo": "https://social-blog-react-cicq.vercel.app/",
+    "source": "https://github.com/Apurwa-Rokade/SocialBlog-React"
+  },
+  {
+    "title": "Dynamic Form Generation app",
+    "imageSrc": "projects/project.png",
+    "description": "This is a project made to genrate forms.",
+    "skills": ["React", "Context-API", "Formik"],
+    "demo": "https://dynamic-form-generator-beta.vercel.app/",
+    "source": "https://github.com/Apurwa-Rokade/dynamic-form-generator"
+  },
+  {
+    "title": "ReduxShop",
+    "imageSrc": "projects/project.png",
+    "description": "This is a project made to learn the Redux and API by building an app.",
+    "skills": ["React", "Redux", "API"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  }
+]
