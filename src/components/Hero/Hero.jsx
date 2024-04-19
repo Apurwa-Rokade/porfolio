@@ -18,6 +18,7 @@ const Hero = () => {
 </a>
    </div>
    </div>
+   {console.log(getImageUrl("hero/heroImage2.png"))}
     <img src={getImageUrl("hero/heroImage2.png") } alt="hero" className={styles.heroimg}/>
     <div className={styles.topBlur} />
       <div className={styles.bottomBlur} />
