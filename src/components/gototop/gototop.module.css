@@ -1,0 +1,41 @@
+/* @import '../../vars'; */
+.top{
+  /* position :fixed; */
+  font-size :2.4rem;
+  width :4rem;
+  height: 4rem;
+  color :var(--color-text);
+  background-color: var(--color-primary);
+   box-shadow:0 0 4px 0 rgba(0,0,0,0.25) ;
+   border-radius: 50%;
+   position :fixed;
+   bottom :2rem;
+   right :4rem;
+   z-index:999;
+   display :flex;
+   justify-content: center;
+   align-items: center;
+   cursor: pointer;
+   
+
+}
+.icon{
+  animation:floating 1s linear infinite alternate-reverse;
+ 
+ 
+}
+@keyframes floating {
+  0% {
+    transform: translatY(15px);
+
+  }
+ 
+  100%{
+    transform: translateY(-15px);
+  }
+}
+.container{
+  display :flex;
+  justify-content: center;
+  align-items :center;
+}
