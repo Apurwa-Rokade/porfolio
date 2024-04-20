@@ -26,16 +26,40 @@
 }
 @keyframes floating {
   0% {
-    transform: translatY(15px);
+    transform: translatY(3rem);
 
   }
  
   100%{
-    transform: translateY(-15px);
+    transform: translateY(-6px);
   }
 }
 .container{
   display :flex;
   justify-content: center;
   align-items :center;
+}
+
+@media screen and (max-width:830px) {
+  .top{
+    /* position :fixed; */
+    font-size :2rem;
+    width :3rem;
+    height: 3rem;
+    color :var(--color-text);
+    background-color: var(--color-primary);
+     box-shadow:0 0 2px 0 rgba(0,0,0,0.25) ;
+     border-radius: 50%;
+     position :fixed;
+     bottom :2rem;
+     right :1rem;
+     z-index:999;
+     display :flex;
+     justify-content: center;
+     align-items: center;
+     cursor: pointer;
+     
+  
+  }
+  
 }
