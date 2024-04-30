@@ -22,8 +22,9 @@ const Gototop = () => {
 
   }
   useEffect (()=>{
-    window.addEventListener("scroll", ListentoScroll)
-  })
+    window.addEventListener("scroll", ListentoScroll);
+    return () => window.removeEventListener("scroll",ListentoScroll )
+  },[])
   return (
    <>
    {isvisible && (<div className={styles.container}>

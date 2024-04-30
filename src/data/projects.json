@@ -20,7 +20,7 @@
     "imageSrc": "projects/project.png",
     "description": "This is a project made to learn the Redux and API by building an app.",
     "skills": ["React", "Redux", "API"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "demo": "https://apurvareduxshop.netlify.app/",
+    "source": "https://github.com/Apurwa-Rokade/ReduxShop"
   }
 ]
