@@ -1,5 +1,13 @@
 [
   {
+    "role": "Software Developer",
+    "organisation": "Zucci",
+    "startDate": "March, 2023",
+    "endDate": "Present",
+    "experiences": ["Designed and implemented interactive features with React and JavaScript, increasing user engagement by 20%, conversion rates by 15%, and interaction with static components by 25%."],
+    "imageSrc": "history/zucci_logo.png"
+  },
+  {
     "role": "Software Engineer",
     "organisation": "TIAA",
     "startDate": "July, 2022",
@@ -7,5 +15,5 @@
     "experiences": ["As a Frontend Developer at TIAA, I enhance financial services web apps with React, JavaScript, HTML, and CSS, creating reusable components and increasing code reuse by 40%."],
     "imageSrc": "history/TIAA.png"
   }
-  
+ 
 ]

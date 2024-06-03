@@ -22,7 +22,7 @@
   font-weight: 900;
   margin-bottom :33px;
   font-family: var(--font-roboto);
-  text-align: center;
+  
   /* background:linear-gradient(90deg, rgba(255,255,255,1) 70% , 
   rgba(255,255,255,0)) 120%;
    -webkit-text-fill-color :transparent;
@@ -116,10 +116,11 @@ z-index:0 ;
 @media screen and (max-width:830px){
   .container{
       flex-direction: column-reverse;
-      margin-top: 11px;
+      margin-top :-10px;
   }
   .content{
     align-items:center;
+    margin-top:32px;
   }
   .contactbtn{
    
@@ -144,5 +145,8 @@ z-index:0 ;
 @media screen and (max-width: 545px)  {
   .btncontainer {
       flex-direction: column;
+  }
+  .title{
+    text-align: center;
   }
 }
