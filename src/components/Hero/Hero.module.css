@@ -116,6 +116,7 @@ z-index:0 ;
 @media screen and (max-width:830px){
   .container{
       flex-direction: column-reverse;
+      margin-top: 11px;
   }
   .content{
     align-items:center;
@@ -126,6 +127,9 @@ z-index:0 ;
     font-weight:600;
     padding: 14px 24px;
    
+  }
+  .description{
+    text-align: center;
   }
  
 }
