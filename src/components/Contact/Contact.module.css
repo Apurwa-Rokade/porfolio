@@ -34,7 +34,6 @@
 }
 .link{
   display: flex;
-  align-items :center;
   gap:25px;
 }
 
@@ -54,10 +53,10 @@
   .text {
     display: flex;
     flex-direction: column;
-    align-items: center;
+    
     
   }
   .links{
-    align-items: center;
+   
   }
 }
