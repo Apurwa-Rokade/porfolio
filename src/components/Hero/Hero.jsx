@@ -13,7 +13,7 @@ const Hero = () => {
     </p>
    <div className={styles.btncontainer}>
    <a href = "mailto:apurwa.rokade@gmail.com" className={styles.contactbtn}>Contact Me</a>
-    <a href = "https://drive.google.com/file/d/17x0dcUSHXFjVUToOvWGOKtWOtVvU_CMj/view?usp=sharing"
+    <a href = "https://drive.google.com/file/d/1K_w4ck-UHMH2zC680Y-83zUz0TdeiYsa/view"
      className={styles.contactbtn}>Resume <FaDownload />
 </a>
    </div>
